@@ -41,7 +41,7 @@ const count = ref(0);
   </div>
 
   <div class="promobanner round">
-
+    <img src="../assets/flashsale.png" alt="" srcset="" style="width: 100%;max-height: 150px;">
   </div>
 
   <div class="category">
@@ -148,8 +148,8 @@ button.collusel {
 }
 .promobanner{
   width: 100%;
-  height: 8vh;
-  background-color: var(--main-color);
+  height: 150px;
+  background-color: var(--sub-color);
   margin: 2vh 0 2vh 0;
 }
 .category{
